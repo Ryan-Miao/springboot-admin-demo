@@ -1,7 +1,7 @@
 Spring-boot-admin项目健康监控
 ====
 
-我们知道spring-boot-actor暴露了大量统计和监控信息的端点，spring-boot-admin
+我们知道spring-boot-actuator暴露了大量统计和监控信息的端点，spring-boot-admin
 就是为此提供的监控项目。
 
 
