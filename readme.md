@@ -80,3 +80,6 @@ management:
     enabled: false
 ```
 
+
+
+更多文档： https://codecentric.github.io/spring-boot-admin/1.5.0/#_what_is_spring_boot_admin
