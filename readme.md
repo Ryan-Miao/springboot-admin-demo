@@ -68,3 +68,15 @@ Spring-boot-admin项目健康监控
   </build>
 ```
 
+
+client端添加admin的url
+```xml
+spring:
+  boot:
+    admin:
+      url: http://localhost:8081
+management:
+  security:
+    enabled: false
+```
+
